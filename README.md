@@ -20,8 +20,9 @@ This internship aims to offer practical experience across several key areas in t
 📊 Log Analysis & Incident Response
 
 
-📁 Repository Structure
+## 📁 Repository Structure
 
+'''
 Cybersecurity-Internship-Program-2025/
 ├── README.md
 ├── Week-1_MITRE-TTP-Mapping/
@@ -64,11 +65,11 @@ Cybersecurity-Internship-Program-2025/
 │   ├── GitHub-Upload-Guide.md
 │   └── Peer-Review-Summary.md
 └── LICENSE
+'''
 
+## 📅 Weekly Breakdown
 
-📅 Weekly Breakdown
-
-- Week 1 - MITRE TTP Mapping
+### - Week 1 - MITRE TTP Mapping
 🔍 Map adversary Tactics, Techniques, and Procedures to the MITRE ATT&CK Framework
 
 🧬 Write and test YARA rules
@@ -77,7 +78,7 @@ Cybersecurity-Internship-Program-2025/
 
 
 
-- Week 2 - Malware & IOC (APT28)
+#### - Week 2 - Malware & IOC (APT28)
 🕸️ Analyze the APT28 threat group and identify key Indicators of Compromise
 
 📑 Review and summarize malware reports
@@ -86,35 +87,35 @@ Cybersecurity-Internship-Program-2025/
 
 
 
-- Week 3 - Linux Privilege Escalation
+### - Week 3 - Linux Privilege Escalation
 🧩 Engage with OverTheWire: Bandit exercises
 
 📘 Document local privilege escalation methods in a structured cheat sheet
 
 
 
-- Week 4 - OSINT & Reconnaissance
+### - Week 4 - OSINT & Reconnaissance
 ✉️ Perform email metadata analysis and image tracking
 
 🔎 Utilize tools for passive information gathering and open-source intelligence
 
 
 
-- Week 5 - Web Exploitation
+### - Week 5 - Web Exploitation
 🐞 Identify and report common vulnerabilities including XSS, SQLi, and SSRF
 
 🧪 Analyze logs and traffic using tools such as Burp Suite, referencing PortSwigger materials
 
 
 
-- Week 6 - Vulnerable Virtual Machines
+### - Week 6 - Vulnerable Virtual Machines
 🏁 Solve Capture the Flag challenges on Mr. Robot and DC-1 VMs
 
 ✍️ Create detailed walkthroughs demonstrating root access
 
 
 
-- Week 7 - Log Analysis & Incident Response
+### - Week 7 - Log Analysis & Incident Response
 🔎 Conduct threat hunting exercises using Graylog queries
 
 🗂️ Reconstruct incident timelines based on available logs
@@ -123,16 +124,16 @@ Cybersecurity-Internship-Program-2025/
 
 
 
-- Week 8 - Finalization
+### - Week 8 - Finalization
 📚 Compile and organize all deliverables, reports, and supporting files
 
 👥 Conduct peer reviews and finalize your internship report
 
 🖥️ Follow the provided submission guidelines for publishing to GitHub
 
+'''
 
-
-🎯 Skills You Will Develop
+## 🎯 Skills You Will Develop
 🧠 Threat Intelligence Mapping and Correlation
 
 🕵️ IOC Extraction and Malware Report Analysis
@@ -147,10 +148,14 @@ Cybersecurity-Internship-Program-2025/
 
 🔍 Log Forensics and Incident Response Procedures
 
+'''
 
-📄 License
+## 📄 License
 This project is made available under the MIT License.
 
+'''
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Sincere thanks to Digi Suraksha for organizing this internship and to all the mentors and contributors who made this program a valuable learning experience.
+
+'''
