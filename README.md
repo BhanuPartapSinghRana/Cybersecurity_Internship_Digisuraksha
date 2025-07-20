@@ -19,6 +19,7 @@ This internship aims to offer practical experience across several key areas in t
 
 📊 Log Analysis & Incident Response
 
+'''
 
 ## 📁 Repository Structure
 
