@@ -19,6 +19,8 @@ This internship aims to offer practical experience across several key areas in t
 📊 Log Analysis & Incident Response
 
 
+📁 Repository Structure
+
 Cybersecurity-Internship-Program-2025/
 ├── README.md
 ├── Week-1_MITRE-TTP-Mapping/
